@@ -3,8 +3,7 @@ class Solution:
         d=""
         for i in digits:
             d+=str(i)
-        z=str(int(d)+1)
         k=[]
-        for i in z:
+        for i in str(int(d)+1):
             k.append(int(i))
         return k
