@@ -1,10 +1,9 @@
 class Solution:
     def findMaxK(self, nums: List[int]) -> int:
-        k=[]
+        c=0
         for i in nums:
-            if -i in nums:
-                k.append(i)
-                k.append(-i)
-        if k==[]:
+            if -i in nums and i>=c:
+                c=i
+        if c==0:
             return -1
-        return max(k)
+        return c
