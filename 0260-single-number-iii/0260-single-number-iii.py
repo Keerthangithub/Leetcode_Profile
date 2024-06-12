@@ -1,7 +1,13 @@
 class Solution:
     def singleNumber(self, nums: List[int]) -> List[int]:
+        d={}
         k=[]
         for i in nums:
-            if nums.count(i)==1:
+            if i in d:
+                d[i]+=1
+            else:
+                d[i]=1
+        for i,j in d.items():
+            if j==1:
                 k.append(i)
         return k
