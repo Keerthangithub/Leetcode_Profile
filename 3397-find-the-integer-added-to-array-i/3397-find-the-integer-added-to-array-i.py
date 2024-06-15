@@ -5,6 +5,4 @@ class Solution:
         k=[]
         for i in range(len(nums1)):
             k.append(nums2[i]-nums1[i])
-        if k==[]:
-            return 0
         return k[0]
