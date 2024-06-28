@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2491-smallest-even-multiple](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2491-smallest-even-multiple) |
+| [2752-sum-multiples](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2752-sum-multiples) |
 ## Number Theory
 |  |
 | ------- |
