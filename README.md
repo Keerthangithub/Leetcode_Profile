@@ -43,14 +43,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/3227-find-missing-and-repeated-values) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/3367-find-the-sum-of-encrypted-integers) |
 ## Hash Table
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/3227-find-missing-and-repeated-values) |
 ## Matrix
 |  |
 | ------- |
 | [3227-find-missing-and-repeated-values](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/3227-find-missing-and-repeated-values) |
+## Two Pointers
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0350-intersection-of-two-arrays-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0350-intersection-of-two-arrays-ii) |
+## Sorting
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
