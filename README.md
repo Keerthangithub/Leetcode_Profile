@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0371-sum-of-two-integers) |
+| [0728-self-dividing-numbers](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0728-self-dividing-numbers) |
 | [1086-divisor-game](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/1086-divisor-game) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2238-a-number-after-a-double-reversal) |
