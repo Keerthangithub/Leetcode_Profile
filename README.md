@@ -79,5 +79,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1823-determine-if-string-halves-are-alike](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+## String
+|  |
+| ------- |
+| [1823-determine-if-string-halves-are-alike](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/1823-determine-if-string-halves-are-alike) |
 <!---LeetCode Topics End-->
