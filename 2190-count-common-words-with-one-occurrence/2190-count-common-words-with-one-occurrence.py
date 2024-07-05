@@ -2,9 +2,7 @@ class Solution:
     def countWords(self, words1: List[str], words2: List[str]) -> int:
         d={}
         c=0
-        k=list(set(words1))
-        v=list(set(words2))
-        k.extend(v)
+        k=words1+words2
         for i in k:
             if i in d:
                 d[i]+=1
