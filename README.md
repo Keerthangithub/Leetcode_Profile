@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0728-self-dividing-numbers) |
 | [1086-divisor-game](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/1086-divisor-game) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1543-simplified-fractions](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/1543-simplified-fractions) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2238-a-number-after-a-double-reversal) |
 | [2383-add-two-integers](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2491-smallest-even-multiple) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1543-simplified-fractions](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/1543-simplified-fractions) |
 | [2491-smallest-even-multiple](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2507-number-of-common-factors) |
 ## Enumeration
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1543-simplified-fractions](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/1543-simplified-fractions) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2190-count-common-words-with-one-occurrence) |
