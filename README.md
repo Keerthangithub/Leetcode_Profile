@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2383-add-two-integers](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2507-number-of-common-factors) |
+| [2645-pass-the-pillow](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2645-pass-the-pillow) |
 | [2752-sum-multiples](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2752-sum-multiples) |
 | [3227-find-missing-and-repeated-values](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/3227-find-missing-and-repeated-values) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/3367-find-the-sum-of-encrypted-integers) |
@@ -98,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-determine-if-string-halves-are-alike](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2190-count-common-words-with-one-occurrence) |
+## Simulation
+|  |
+| ------- |
+| [2645-pass-the-pillow](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2645-pass-the-pillow) |
 <!---LeetCode Topics End-->
