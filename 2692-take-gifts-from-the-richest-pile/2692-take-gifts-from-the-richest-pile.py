@@ -8,10 +8,7 @@ class Solution:
                 x = y
                 y = 0.5 * (x + number / x)
             return math.floor(x)
-        s=0
-        d=0
-        g=0
-        gifts.sort()
+        s,g,d=0,0,0
         while(1):
             if s==k:
                 break
@@ -19,4 +16,4 @@ class Solution:
             g=gifts.index(max(gifts))
             d=sqrt(max(gifts))
             gifts[g]=d
-        return int(sum(gifts))
+        return sum(gifts)
