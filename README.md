@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2331-intersection-of-multiple-arrays](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2331-intersection-of-multiple-arrays) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3227-find-missing-and-repeated-values](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/3227-find-missing-and-repeated-values) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/3367-find-the-sum-of-encrypted-integers) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2331-intersection-of-multiple-arrays](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2331-intersection-of-multiple-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/3227-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2331-intersection-of-multiple-arrays](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2331-intersection-of-multiple-arrays) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Union Find
 |  |
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2331-intersection-of-multiple-arrays](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2331-intersection-of-multiple-arrays) |
 ## String
 |  |
 | ------- |
