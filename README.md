@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0371-sum-of-two-integers) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-count-common-words-with-one-occurrence](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2331-intersection-of-multiple-arrays) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/3227-find-missing-and-repeated-values) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2331-intersection-of-multiple-arrays) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/3227-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -119,4 +122,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1720-crawler-log-folder](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/1720-crawler-log-folder) |
+## Trie
+|  |
+| ------- |
+| [3193-maximum-strong-pair-xor-i](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/3193-maximum-strong-pair-xor-i) |
+## Sliding Window
+|  |
+| ------- |
+| [3193-maximum-strong-pair-xor-i](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/3193-maximum-strong-pair-xor-i) |
 <!---LeetCode Topics End-->
