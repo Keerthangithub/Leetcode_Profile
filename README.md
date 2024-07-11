@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0258-add-digits) |
 | [0371-sum-of-two-integers](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0371-sum-of-two-integers) |
 | [0728-self-dividing-numbers](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0728-self-dividing-numbers) |
 | [1086-divisor-game](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/1086-divisor-game) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0258-add-digits) |
 | [1543-simplified-fractions](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/1543-simplified-fractions) |
 | [2491-smallest-even-multiple](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2507-number-of-common-factors) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0258-add-digits) |
 | [2645-pass-the-pillow](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2645-pass-the-pillow) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Heap (Priority Queue)
