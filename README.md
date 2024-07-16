@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2383-add-two-integers](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2507-number-of-common-factors) |
+| [2571-find-the-pivot-integer](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2571-find-the-pivot-integer) |
 | [2645-pass-the-pillow](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2645-pass-the-pillow) |
 | [2752-sum-multiples](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2752-sum-multiples) |
 | [3227-find-missing-and-repeated-values](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/3227-find-missing-and-repeated-values) |
@@ -148,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0496-next-greater-element-i) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+## Prefix Sum
+|  |
+| ------- |
+| [2571-find-the-pivot-integer](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2571-find-the-pivot-integer) |
 <!---LeetCode Topics End-->
