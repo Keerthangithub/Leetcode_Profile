@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0128-longest-consecutive-sequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0496-next-greater-element-i) |
+| [1505-create-target-array-in-the-given-order](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/1505-create-target-array-in-the-given-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1720-crawler-log-folder](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/1720-crawler-log-folder) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0258-add-digits) |
+| [1505-create-target-array-in-the-given-order](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/1505-create-target-array-in-the-given-order) |
 | [2645-pass-the-pillow](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2645-pass-the-pillow) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Heap (Priority Queue)
