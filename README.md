@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0371-sum-of-two-integers) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/3193-maximum-strong-pair-xor-i) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/3227-find-missing-and-repeated-values) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Hash Table
 |  |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3193-maximum-strong-pair-xor-i](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/3227-find-missing-and-repeated-values) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Matrix
 |  |
 | ------- |
