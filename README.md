@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0742-to-lower-case](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0742-to-lower-case) |
 | [1543-simplified-fractions](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/1543-simplified-fractions) |
 | [1720-crawler-log-folder](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/1720-crawler-log-folder) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/1823-determine-if-string-halves-are-alike) |
