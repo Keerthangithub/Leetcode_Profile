@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0128-longest-consecutive-sequence) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0287-find-the-duplicate-number) |
