@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0496-next-greater-element-i) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2331-intersection-of-multiple-arrays) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2836-neither-minimum-nor-maximum) |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0169-majority-element) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
@@ -200,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2292-counting-words-with-a-given-prefix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
