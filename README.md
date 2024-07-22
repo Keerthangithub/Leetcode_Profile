@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0088-merge-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0151-reverse-words-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0742-to-lower-case) |
 | [1543-simplified-fractions](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/1543-simplified-fractions) |
