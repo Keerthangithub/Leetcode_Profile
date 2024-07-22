@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0258-add-digits) |
 | [0371-sum-of-two-integers](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0371-sum-of-two-integers) |
 | [0728-self-dividing-numbers](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0728-self-dividing-numbers) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0128-longest-consecutive-sequence) |
+| [0189-rotate-array](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0557-reverse-words-in-a-string-iii) |
