@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0557-reverse-words-in-a-string-iii) |
