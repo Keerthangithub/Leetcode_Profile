@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0258-add-digits) |
 | [0371-sum-of-two-integers](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0371-sum-of-two-integers) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0033-search-in-rotated-sorted-array) |
+| [0048-rotate-image](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0088-merge-sorted-array) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0048-rotate-image) |
 | [1791-richest-customer-wealth](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/1791-richest-customer-wealth) |
 | [3227-find-missing-and-repeated-values](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
