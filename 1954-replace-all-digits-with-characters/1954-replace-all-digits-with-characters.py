@@ -5,6 +5,5 @@ class Solution:
             if i%2==0:
                 d+=s[i]
             else:
-                k=ord(s[i-1])+int(s[i])
-                d+=chr(k)
+                d+=chr(ord(s[i-1])+int(s[i]))
         return d
