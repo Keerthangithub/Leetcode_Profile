@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0496-next-greater-element-i) |
+| [0898-transpose-matrix](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0898-transpose-matrix) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/1505-create-target-array-in-the-given-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0048-rotate-image) |
+| [0898-transpose-matrix](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0898-transpose-matrix) |
 | [1791-richest-customer-wealth](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/1791-richest-customer-wealth) |
 | [3227-find-missing-and-repeated-values](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0258-add-digits) |
+| [0898-transpose-matrix](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0898-transpose-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/1505-create-target-array-in-the-given-order) |
 | [2645-pass-the-pillow](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2645-pass-the-pillow) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2692-take-gifts-from-the-richest-pile) |
