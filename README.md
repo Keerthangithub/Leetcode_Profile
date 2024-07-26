@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2486-most-frequent-even-element](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2502-sort-the-people) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2737-row-with-maximum-ones](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2737-row-with-maximum-ones) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2836-neither-minimum-nor-maximum) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/3227-find-missing-and-repeated-values) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0048-rotate-image) |
 | [0898-transpose-matrix](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0898-transpose-matrix) |
 | [1791-richest-customer-wealth](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/1791-richest-customer-wealth) |
+| [2737-row-with-maximum-ones](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2737-row-with-maximum-ones) |
 | [3227-find-missing-and-repeated-values](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
