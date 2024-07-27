@@ -1,8 +1,8 @@
 class Solution:
     def searchMatrix(self, matrix: List[List[int]], target: int) -> bool:
-        if len(matrix)==1:
+        '''if len(matrix)==1:
             if matrix[0][0]==target:
-                return True
+                return True'''
         j,i=0,0
         while i<len(matrix):
             x=0
