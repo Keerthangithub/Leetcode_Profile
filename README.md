@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0088-merge-sorted-array) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0074-search-a-2d-matrix) |
 | [0898-transpose-matrix](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1791-richest-customer-wealth](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/1791-richest-customer-wealth) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0350-intersection-of-two-arrays-ii) |
