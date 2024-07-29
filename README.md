@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-count-common-words-with-one-occurrence](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2331-intersection-of-multiple-arrays) |
+| [2428-equal-row-and-column-pairs](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2428-equal-row-and-column-pairs) |
 | [2486-most-frequent-even-element](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2502-sort-the-people) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2331-intersection-of-multiple-arrays) |
+| [2428-equal-row-and-column-pairs](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2428-equal-row-and-column-pairs) |
 | [2486-most-frequent-even-element](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2502-sort-the-people) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/3193-maximum-strong-pair-xor-i) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1791-richest-customer-wealth](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/1791-richest-customer-wealth) |
+| [2428-equal-row-and-column-pairs](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2428-equal-row-and-column-pairs) |
 | [2737-row-with-maximum-ones](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2737-row-with-maximum-ones) |
 | [3227-find-missing-and-repeated-values](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0258-add-digits) |
 | [0898-transpose-matrix](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/0898-transpose-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/1505-create-target-array-in-the-given-order) |
+| [2428-equal-row-and-column-pairs](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2428-equal-row-and-column-pairs) |
 | [2645-pass-the-pillow](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2645-pass-the-pillow) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Heap (Priority Queue)
