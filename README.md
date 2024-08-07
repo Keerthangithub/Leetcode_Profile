@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
+| [3429-special-array-i](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/3429-special-array-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Hash Table
