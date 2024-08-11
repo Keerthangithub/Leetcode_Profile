@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2428-equal-row-and-column-pairs](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2428-equal-row-and-column-pairs) |
 | [2486-most-frequent-even-element](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2502-sort-the-people) |
+| [2566-number-of-unequal-triplets-in-array](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2737-row-with-maximum-ones](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2737-row-with-maximum-ones) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2836-neither-minimum-nor-maximum) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2428-equal-row-and-column-pairs](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2428-equal-row-and-column-pairs) |
 | [2486-most-frequent-even-element](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2502-sort-the-people) |
+| [2566-number-of-unequal-triplets-in-array](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/3227-find-missing-and-repeated-values) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2331-intersection-of-multiple-arrays) |
 | [2502-sort-the-people](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2502-sort-the-people) |
+| [2566-number-of-unequal-triplets-in-array](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/2836-neither-minimum-nor-maximum) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Keerthangithub/Leetcode_Profile/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Union Find
